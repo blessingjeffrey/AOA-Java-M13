@@ -28,8 +28,6 @@ If there is no solution to the problem  print  "Solution does not exist"
 ```
 /*
 Program to implement Reverse a String
-Developed by: MUKESH R
-Register Number: 212223240100
 */
 
 import java.util.Scanner;
