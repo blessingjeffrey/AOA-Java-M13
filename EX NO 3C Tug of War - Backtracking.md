@@ -27,8 +27,6 @@ Constraints:
 ```
 /*
 Program to implement Reverse a String
-Developed by: MUKESH R
-Register Number: 212223240100
 */
 
 import java.util.Scanner;
